@@ -9,7 +9,7 @@
 import UIKit
 
 @available(iOS 10.0, *)
-class AnimateViewController: UIViewController {
+public class AnimateViewController: UIViewController {
     
     var imageView : UIImageView!
     
